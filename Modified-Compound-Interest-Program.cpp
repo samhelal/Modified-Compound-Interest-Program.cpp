@@ -2,7 +2,7 @@
 of Fig. 5.6 to repeat its steps for interest rates of 5%, 6%, 7%, 8%, 9% and 10%.
 Use a for loop to vary the interest rate.(c++ how to program)*/
 #include <iostream>
-#include<cmath>
+#include <cmath>
 #include <iomanip>
 using namespace std ;
 
